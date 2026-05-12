@@ -129,5 +129,6 @@ Pull requests, feature ideas, and bug reports are welcome!
 ```
 📬 Contact
 **Email:**khushi.kwal05@gmail.com
+
 **LinkedIn:** www.linkedin.com/in/khushi-khandelwall
 
