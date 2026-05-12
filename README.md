@@ -128,6 +128,6 @@ Pull requests, feature ideas, and bug reports are welcome!
 # Fork → Code → Pull Request ✔️
 ```
 📬 Contact
-📧 nandinijaiswal783@gmail.com
-📦 GitHub: [NandiniJaiswal05](https://github.com/NandiniJaiswal05)
+**Email:**khushi.kwal05@gmail.com
+**LinkedIn:** www.linkedin.com/in/khushi-khandelwall
 
