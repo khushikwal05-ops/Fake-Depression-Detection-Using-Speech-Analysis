@@ -128,7 +128,7 @@ Pull requests, feature ideas, and bug reports are welcome!
 # Fork → Code → Pull Request ✔️
 ```
 📬 Contact
-**Email:**khushi.kwal05@gmail.com
+**Email:** khushi.kwal05@gmail.com
 
 **LinkedIn:** www.linkedin.com/in/khushi-khandelwall
 
